@@ -1,0 +1,81 @@
+[{      "img" : "http://android.getbybus.net/vjezbe/android/carsbig/porsche997.jpg",
+        "thumbnail" : "http://android.getbybus.net/vjezbe/android/carssmall/porsche997.jpg",
+        "manufacturer" : "Porsche",
+        "model" : "911",
+        "price" : 135000,
+        "description" : "The Porsche 997 is the internal designation for the Porsche 911 model manufactured and sold by German manufacturer Porsche between 2004 (as Model Year 2005) and 2012. Production of the Carrera and Carrera S coupÃƒÂ©s began in early 2004, all-wheel drive Carrera 4 and Carrera 4S versions began shipping in November 2005, Turbo and GT3 derivatives went on sale in late 2006 and the 911 GT2 in 2007. In addition to the coupe and cabriolet versions, Targa versions of the Carrera 4 and Carrera 4S were also available, which carry on with the glass canopy roof design used on all Targa 911s since the Type 993 Generation 911."
+    },{
+        "img" : "http://android.getbybus.net/vjezbe/android/carsbig/gtr.jpg",
+        "thumbnail" : "http://android.getbybus.net/vjezbe/android/carssmall/gtr.jpg",
+        "manufacturer" : "Nissan",
+        "model" : "GT-R",
+        "price" : 80000,
+        "description" : "The Nissan GT-R is a sports car produced by Nissan released in Japan on December 6, 2007, Canada and the United States on July 7, 2008, and the rest of the world in March 2009.Nissan chief creative officer, Shiro Nakamura, has likened the new GT-R to the giant robots of the Gundam series.[15] Nakamura stated: The GT-R is unique because it is not simply a copy of a European-designed supercar; it had to really reflect Japanese culture."
+    },{
+        "img" : "http://android.getbybus.net/vjezbe/android/carsbig/bmwm3.jpg",
+        "thumbnail" : "http://android.getbybus.net/vjezbe/android/carssmall/bmwm3.jpg",
+        "manufacturer" : "BMW",
+        "model" : "M3",
+        "price" : 60500,
+        "description" : "The BMW M3 is a high-performance version of the BMW 3-Series, developed by BMW's in-house motorsport division, BMW M. M3 models have been derived from the E30, E36, E46 and E90/E92/E93 3-series, and sold with coupÃƒÂ©, saloon and convertible body styles. Upgrades over the standard 3-Series automobiles include more powerful and responsive engines, improved handling/suspension/braking systems, aerodynamic body enhancements, and interior/exterior accents with the tri-colour M (Motorsport) emblem. Over the years the M3 and M5 have become the benchmark vehicle against which most sport sedans in its class are compared despite competition from Mercedes-AMG and Audi Quattro GmbH (Audi RS). The last M3 coupe rolled off the assembly line in Germany on 5 July 2013. The M3 name will remain with the sedan, but the coupe model will be replaced by the M4 beginning with the 2014 model year."
+    },{
+        "img" : "http://android.getbybus.net/vjezbe/android/carsbig/audis5.jpg",
+        "thumbnail" : "http://android.getbybus.net/vjezbe/android/carssmall/audis5.jpg",
+        "manufacturer" : "Audi",
+        "model" : "S5",
+        "price" : 53000,
+        "description" : "The Audi S5 is the high-performance variant of Audi's A5. It is also the coupÃƒÂ©, cabriolet, and five-door fastback versions of the fourth generation (B8) Audi S4 saloon and estate models.
+Like all Audi S cars, they are only available as standard with Audi's quattro four-wheel drive (4WD) system, here in S5 using a Torsen-based centre diff system.
+Most versions of the S5 are manufactured at Audi's plant in Ingolstadt, Germany; they are available as a coupÃƒÂ©, cabriolet, and five-door fastback (the latter not available in North America). The cabriolets are built at Audi's factory in Neckarsulm, Germany."
+    },{
+        "img" : "http://android.getbybus.net/vjezbe/android/carsbig/auditt.jpg",
+        "thumbnail" : "http://android.getbybus.net/vjezbe/android/carssmall/auditt.jpg",
+        "manufacturer" : "Audi",
+        "model" : "TT",
+        "price" : 40000,
+        "description" : "The Audi TT is a small two-door sports car marketed by Volkswagen Group subsidiary Audi since 1998, both assembled by the Audi subsidiary Audi Hungaria Motor Kft. in Gyor, Hungary, using bodyshells manufactured and painted at Audi's Ingolstadt plant.
+For each of its two generations, the TT has been available as a 2+2 CoupÃƒÂ© and as a two-seater roadster employing consecutive generations of the Volkswagen Group A platform, starting with the A4 (PQ34). As a result of this platform-sharing, the Audi TT has identical powertrain and suspension layouts as its related platform-mates; including a front-mounted transversely oriented engine, front-wheel drive or quattro four-wheel drive system, and fully independent front suspension using MacPherson struts."
+    },{
+        "img" : "http://android.getbybus.net/vjezbe/android/carsbig/buggativeyron.jpg",
+        "thumbnail" : "http://android.getbybus.net/vjezbe/android/carssmall/buggativeyron.jpg",
+        "manufacturer" : "Bugatti",
+        "model" : "16/4 Veyron Grand Sport",
+        "price" : 2000000,
+        "description" : "Molsheim / Dubai, 5 November 2013. Bugatti is presenting the third model in its six-part edition Ã¢â‚¬Å“Les LÃƒÂ©gendes de BugattiÃ¢â‚¬Â at this yearÃ¢â‚¬â„¢s Dubai International Motor Show (November 5Ã¢â‚¬â€œ9). This Legend car, which like all cars in the series is based on the Veyron 16.4 Grand Sport Vitesse, pays homage to Meo Costantini. Costantini was a close friend of the companyÃ¢â‚¬â„¢s founder, Ettore Bugatti. He was the head of BugattiÃ¢â‚¬â„¢s factory race team for many years and was also a driver, winning the Targa Florio two times in the Bugatti Type 35, one of the most successful racing cars of all time. The Legend Edition Ã¢â‚¬Å“Meo CostantiniÃ¢â‚¬Â is priced at Ã¢â€šÂ¬2.09 million, excluding taxes and transport. As with all Bugatti Legend cars, the production run is limited to only three vehicles."
+    },{
+        "img" : "http://android.getbybus.net/vjezbe/android/carsbig/copocamaro.jpg",
+        "thumbnail" : "http://android.getbybus.net/vjezbe/android/carssmall/copocamaro.jpg",
+        "manufacturer" : "Chevrolet",
+        "model" : "COPO Camaro",
+        "price" : 86000,
+        "description" : "Chevrolet PerformanceÃ¢â‚¬â„¢s COPO Camaro program returns for 2014 with another limited run of factory-produced race cars and a pair of new racing engine choices. To purchase one of the exclusive models, potential customers must sign up for the COPO Camaro mailing list at chevroletperformance.com.
+It is the third year for the COPO Camaro program and like the previous two, only 69 race cars will be built for NHRA Stock Eliminator and Super Stock competition. They will carry the distinctive, updated styling of the 2014 Camaro lineup, including new front and rear fascias."
+
+    }, {
+        "img" : "http://android.getbybus.net/vjezbe/android/carsbig/ferrari458.jpg",
+        "thumbnail" : "http://android.getbybus.net/vjezbe/android/carssmall/ferrari458.jpg",
+        "manufacturer" : "Ferrari",
+        "model" : "458 Challenge Evoluzione",
+        "price" : 0,
+        "description" : "After running the 458 Challenge cars for three years Ferrari updated the model to Challenge Evoluzione-spec for 2014.
+The Evoluzione is a mandatory kit for 2014 that replaces both the front and rear fascias with more aggressive counterparts that are similar to the 458 GT3. Included is a substantial rear wing that has a multitude of adjustment points.
+The kit was developed with the help of Andrea Bertolini and Marc Gene and was first revealed by them at the 2013 Ferrari Finali Mondiali at Mugello where many drivers got their first look and test drive of the new model."
+    },  {
+        "img" : "http://android.getbybus.net/vjezbe/android/carsbig/corvettesr.jpg",
+        "thumbnail" : "http://android.getbybus.net/vjezbe/android/carssmall/corvettesr.jpg",
+        "manufacturer" : "Chevrolet Corvette",
+        "model" : "SR",
+        "price" : 43500,
+        "description" : "In 1956, Chevrolet took desperate measures and saved the model's future by presenting an armada of motorsports variants in 1956. None of these was more successful than the SR prototype which placed 9th overall at the 12 Hours of Sebring and has since been credited with saving the model's outright demise.
+Advertised as The Real McCoy, the Corvette SR was a hurried attempt by race driver and team manager John Fitch to ready to the Corvettes for their first endurance test under the Raceway Enterprises banner. This meant developing new Regular Production Orders to include features such as brake cooling ducts and twin fan belts to comply with production regulations."
+    }, {
+        "img" : "http://android.getbybus.net/vjezbe/android/carsbig/venenoroadster.jpg",
+        "thumbnail" : "http://android.getbybus.net/vjezbe/android/carssmall/venenoroadster.jpg",
+        "manufacturer" : "Lamborghini",
+        "model" : "Veneno Roadster",
+        "price" : 3300000,
+        "description" : "As a further highlight of its 50th anniversary year, Automobili Lamborghini is presenting one of the most exceptional super sports cars of all time. The Lamborghini Veneno Roadster isan open racing prototype with an extreme design and breathtaking performance. And it is one of the worldÃ¢â‚¬â„¢s most exclusive automobiles --- not more than nine units will be built during the course of 2014 and sold at a price of 3.3 million Euros (excl. tax).
+The Veneno Roadster is extreme and guarantees an intense driving experience --- because open means truly open. There is no roof, just a strong rollover bar for optimum safety. The design is focused on optimum aerodynamics and stability through fast corners --- with handling akin to that of a racing prototype. Yet it is fully road legal."
+    }
+]
+
