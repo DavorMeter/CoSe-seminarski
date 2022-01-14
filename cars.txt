@@ -1,4 +1,4 @@
-[{      "img" : "http://android.getbybus.net/vjezbe/android/carsbig/porsche997.jpg",
+[{      "img" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/image_1_tmb_comic.jpg",
         "thumbnail" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/image_1_tmb_comic.jpg",
         "manufacturer" : "Porsche",
         "model" : "911",
