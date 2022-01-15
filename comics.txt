@@ -12,8 +12,7 @@
         "autor_ID" : "2",
         "tags" : ["manga","slice of life","comedy"],
         "description" : "This is a tragic story of a guy named Suzuki Iruma, whom caring parents sold to a terrible demon for easy gain.
-However, after this event did not develop quite according to the classical scenario: instead of eating, a terrible demon arranged Irum at home and enrolled in one of the prestigious schools of the world of demons.
-And even though our hero survived his first day in the hellish dimension, how will his school life go in the midst of monsters who literally eat people like him for breakfast?"
+However, after this event did not develop quite according to the classical scenario: instead of eating, a terrible demon arranged Irum at home and enrolled in one of the prestigious schools of the world of demons."
     },{
 	"thumbnail" : https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic3/comic3_tmb.jpg",
         "title" : "Edd Lai's stories",

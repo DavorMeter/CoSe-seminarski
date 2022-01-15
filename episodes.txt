@@ -1,37 +1,44 @@
 [{
 	"comic_ID" : "1",
-	"episode_ID" : "1001"
-	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep1_tmb.jpg"
+	"episode_ID" : "1001",
+	"episode_title" : "Why do we fight?",
+	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep1_tmb.jpg",
 	"image_path" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep1_img_"
     },{
 	"comic_ID" : "1",
-	"episode_ID" : "1002"
-	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep2_tmb.jpg"
+	"episode_ID" : "1002",
+	"episode_title" : "Bored?",
+	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep2_tmb.jpg",
 	"image_path" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep2_img_"
     },{
 	"comic_ID" : "1",
-	"episode_ID" : "1003"
-	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep3_tmb.jpg"
+	"episode_ID" : "1003",
+	"episode_title" : "Orders?",
+	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep3_tmb.jpg",
 	"image_path" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep2_img_"
     },{
 	"comic_ID" : "1",
-	"episode_ID" : "1004"
-	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep4_tmb.jpg"
+	"episode_ID" : "1004",
+	"episode_title" : "It's a rat",
+	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep4_tmb.jpg",
 	"image_path" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep4_img_"
     },{
 	"comic_ID" : "2",
-	"episode_ID" : "2001"
-	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic2_ep1_tmb.jpg"
+	"episode_ID" : "2001",
+	"episode_title" : "Welcome to Demon World!",
+	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic2_ep1_tmb.jpg",
 	"image_path" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic2_ep1_img_"
     },{
 	"comic_ID" : "3",
-	"episode_ID" : "3001"
-	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic3_ep1_tmb.jpg"
+	"episode_ID" : "3001",
+	"episode_title" : "VODOO",
+	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic3_ep1_tmb.jpg",
 	"image_path" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic3_ep1_img_"
     },{
 	"comic_ID" : "4",
-	"episode_ID" : "4001"
-	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic4_ep1_tmb.jpg"
+	"episode_ID" : "4001",
+	"episode_title" : "ESCAPE",
+	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic4_ep1_tmb.jpg",
 	"image_path" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic4_ep1_img_"
     }
 ]
