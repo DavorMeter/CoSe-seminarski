@@ -12,13 +12,13 @@
         "autor_ID" : 2,
         "description" : "This is a tragic story of a guy named Suzuki Iruma, whom caring parents sold to a terrible demon for easy gain. However, after this event did not develop quite according to the classical scenario: instead of eating, a terrible demon arranged Irum at home and enrolled in one of the prestigious schools of the world of demons."
     },{
-	"thumbnail" : https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic3/comic3_tmb.jpg",
+	"thumbnail" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic3/comic3_tmb.jpg",
         "title" : "Edd Lai's stories",
 	"comic_ID" : 3,
         "autor_ID" : 3,
         "description" : "Short ilustrated storyes by Edd Lai. Scary or funny or wholsome or all at the same time."
     },{
-	"thumbnail" : https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic4/comic4_tmb.jpg",
+	"thumbnail" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic4/comic4_tmb.jpg",
         "title" : "How to be a MIND REAVER",
 	"comic_ID" : 4,
         "autor_ID" : 3,
