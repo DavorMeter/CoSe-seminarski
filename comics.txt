@@ -21,6 +21,13 @@ And even though our hero survived his first day in the hellish dimension, how wi
         "autor_ID" : "3",
         "tags" : ["horror","supernatural","comedy"],
         "description" : "Short ilustrated storyes by Edd Lai. Scary or funny or wholsome or all at the same time."
+    },{
+	"thumbnail" : https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic4/comic4_tmb.jpg",
+        "title" : "How to be a MIND REAVER",
+	"comic_ID" : "4",
+        "autor_ID" : "3",
+        "tags" : ["fantasy","supernatural","comedy"],
+        "description" : "Cthu lives in a dungeon alone near a dark forest, known as “Mind Reaver”. He is full of knowledge, adept at mind control, and has many strong tentacles. He is very annoyed that humans are always breaking into his dungeon. One day, Cthu meets a little girl, Luna, who seems to be abandoned in the dungeon… And that’s where the story begins."
     }
 ]
 
