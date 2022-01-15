@@ -1,3 +1,4 @@
+
 [{
 	"thumbnail" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_tmb.jpg",
         "title" : "Gone with the Blastwave",
