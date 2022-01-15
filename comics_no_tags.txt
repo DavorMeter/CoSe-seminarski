@@ -6,7 +6,7 @@
         "autor_ID" : 1,
         "description" : "Gone With the Blastwave is about Sniper and Pyro, 2 Red Army soldiers wandering about in a vast, war-torn City likely devastated by a nuclear bombardment. With no one knowing the way out the only thing left to do is to stay in the city continuing the endless war with the Blue and Yellow armies, by any means necessary."
     },{
-	"thumbnail" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic2/comic2_tmb.JPG",
+	"thumbnail" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic2/comic2_tmb.jpg",
         "title" : "Mairimashita! Iruma-kun",
 	"comic_ID" : 2,
         "autor_ID" : 2,
