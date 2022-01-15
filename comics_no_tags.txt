@@ -1,28 +1,28 @@
 
 [{
-	"thumbnail" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_tmb.jpg",
-        "title" : "Gone with the Blastwave",
+	"comic_thumbnail" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_tmb.jpg",
+        "comic_title" : "Gone with the Blastwave",
 	"comic_ID" : 1,
-        "autor_ID" : 1,
-        "description" : "Gone With the Blastwave is about Sniper and Pyro, 2 Red Army soldiers wandering about in a vast, war-torn City likely devastated by a nuclear bombardment. With no one knowing the way out the only thing left to do is to stay in the city continuing the endless war with the Blue and Yellow armies, by any means necessary."
+        "comic_author_ID" : 1,
+        "comic_description" : "Gone With the Blastwave is about Sniper and Pyro, 2 Red Army soldiers wandering about in a vast, war-torn City likely devastated by a nuclear bombardment. With no one knowing the way out the only thing left to do is to stay in the city continuing the endless war with the Blue and Yellow armies, by any means necessary."
     },{
-	"thumbnail" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic2/comic2_tmb.jpg",
-        "title" : "Mairimashita! Iruma-kun",
+	"comic_thumbnail" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic2/comic2_tmb.jpg",
+        "comic_title" : "Mairimashita! Iruma-kun",
 	"comic_ID" : 2,
-        "autor_ID" : 2,
-        "description" : "This is a tragic story of a guy named Suzuki Iruma, whom caring parents sold to a terrible demon for easy gain. However, after this event did not develop quite according to the classical scenario: instead of eating, a terrible demon arranged Irum at home and enrolled in one of the prestigious schools of the world of demons."
+        "comic_author_ID" : 2,
+        "comic_description" : "This is a tragic story of a guy named Suzuki Iruma, whom caring parents sold to a terrible demon for easy gain. However, after this event did not develop quite according to the classical scenario: instead of eating, a terrible demon arranged Irum at home and enrolled in one of the prestigious schools of the world of demons."
     },{
-	"thumbnail" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic3/comic3_tmb.jpg",
-        "title" : "Edd Lai's stories",
+	"comic_thumbnail" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic3/comic3_tmb.jpg",
+        "comic_title" : "Edd Lai's stories",
 	"comic_ID" : 3,
-        "autor_ID" : 3,
-        "description" : "Short ilustrated storyes by Edd Lai. Scary or funny or wholsome or all at the same time."
+        "comic_author_ID" : 3,
+        "comic_description" : "Short ilustrated storyes by Edd Lai. Scary or funny or wholsome or all at the same time."
     },{
-	"thumbnail" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic4/comic4_tmb.jpg",
-        "title" : "How to be a MIND REAVER",
+	"comic_thumbnail" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic4/comic4_tmb.jpg",
+        "comic_title" : "How to be a MIND REAVER",
 	"comic_ID" : 4,
-        "autor_ID" : 3,
-        "description" : "Cthu lives in a dungeon alone near a dark forest, known as “Mind Reaver”. He is full of knowledge, adept at mind control, and has many strong tentacles. He is very annoyed that humans are always breaking into his dungeon. One day, Cthu meets a little girl, Luna, who seems to be abandoned in the dungeon… And that’s where the story begins."
+        "comic_author_ID" : 3,
+        "comic_description" : "Cthu lives in a dungeon alone near a dark forest, known as “Mind Reaver”. He is full of knowledge, adept at mind control, and has many strong tentacles. He is very annoyed that humans are always breaking into his dungeon. One day, Cthu meets a little girl, Luna, who seems to be abandoned in the dungeon… And that’s where the story begins."
     }
 ]
 
