@@ -1,13 +1,13 @@
 [{
 	"autor_name": "Kimmo Lemetti",
-        "autor_ID" : "1"
+        "autor_ID" : 1
         
     },{
 	"autor_name": "Nishi Osamu",
-        "autor_ID" : "2"
+        "autor_ID" : 2
     },{
 	"autor_name": "Edd Lai",
-        "autor_ID" : "3"
+        "autor_ID" : 3
     }
 ]
 
