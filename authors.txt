@@ -1,12 +1,12 @@
 [{
-        "autor_ID" : 1,
-	"autor_name": "Kimmo Lemetti"
+        "author_ID" : 1,
+	"author_name": "Kimmo Lemetti"
     },{
-        "autor_ID" : 2,
-	"autor_name": "Nishi Osamu"
+        "author_ID" : 2,
+	"author_name": "Nishi Osamu"
     },{
-	"autor_ID" : 3,
-	"autor_name": "Edd Lai"
+	"author_ID" : 3,
+	"author_name": "Edd Lai"
     }
 ]
 
