@@ -3,7 +3,7 @@
 	"episode_ID" : 11,
 	"episode_title" : "Why do we fight?",
 	"episode_tmb" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep1_tmb.jpg",
-	"image_path" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep1_img_1.jpg",
+	"image_path" : "https://raw.githubusercontent.com/warbossy/CoSe-seminarski/main/comic1/comic1_ep1/comic1_ep1_img_",
 	"image_count" : 1
     },{
 	"episode_comic_ID": 1,
