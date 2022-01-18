@@ -40,6 +40,11 @@ public class MySQLiteHelper extends SQLiteOpenHelper {
             + " user_name TEXT NOT NULL UNIQUE,"
             + " user_password TEXT NOT NULL UNIQUE);";
 
+    private	static final String	DATABASE_CREATE_Subscribes = "CREATE TABLE subscribes"
+            + "(subscribe_ID INTEGER NOT NULL PRIMARY KEY,"
+            + " subscribe_user_ID INTEGER NOT NULL,"
+            + " subscribe_comic_ID INTEGER NOT NULL );";
+
     public MySQLiteHelper(Context context) {
         super(context, DATABASE_NAME,null, DATABASE_VERSION);
     }
@@ -51,6 +56,7 @@ public class MySQLiteHelper extends SQLiteOpenHelper {
         database.execSQL(DATABASE_CREATE_Author);
         database.execSQL(DATABASE_CREATE_Images);
         database.execSQL(DATABASE_CREATE_Users);
+        database.execSQL(DATABASE_CREATE_Subscribes);
     }
 
     @Override
@@ -60,6 +66,7 @@ public class MySQLiteHelper extends SQLiteOpenHelper {
         db.execSQL("DROP TABLE IF EXISTS authors");
         db.execSQL("DROP TABLE IF EXISTS images");
         db.execSQL("DROP TABLE IF EXISTS users");
+        db.execSQL("DROP TABLE IF EXISTS subscribes");
 
         onCreate(db);
     }

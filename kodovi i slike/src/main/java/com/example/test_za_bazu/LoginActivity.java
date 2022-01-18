@@ -70,11 +70,6 @@ public class LoginActivity extends AppCompatActivity {
             Users userZaUsporedivanje = userDataSource.getUserByName(userNameString);
             if(!userNameString.isEmpty() && !userPasswordString.isEmpty())
             {
-
-                Log.d("userNameString!!!!!",userNameString);
-                Log.d("userPasswordString!!!!!",userPasswordString);
-                Log.d("userZaUsName!!!!!",String.valueOf(userZaUsporedivanje.getUser_name()));
-                Log.d("userZaUsPass!!!!!",String.valueOf(userZaUsporedivanje.getUser_password()));
                 if(userPasswordString.equals(userZaUsporedivanje.getUser_password()))
                 {
                     editor.putString("value",userZaUsporedivanje.getUser_name());

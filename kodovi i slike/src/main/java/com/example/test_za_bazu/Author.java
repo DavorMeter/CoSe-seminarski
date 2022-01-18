@@ -6,12 +6,6 @@ public class Author {
     private int author_ID;
     private String author_name;
 
-    /*public Author(int author_ID,String name)
-    {
-        this.author_ID = author_ID;
-        this.author_name = author_name;
-    }*/
-
     public int getAuthor_ID(){return author_ID;}
 
     public String getAuthor_name() {

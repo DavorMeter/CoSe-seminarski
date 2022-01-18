@@ -17,10 +17,15 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name="ComicsEpisodesActivity" android:label="Ovo je su sve episode u stripu"></activity>
-        <activity android:name="EpisodeImagesActivity" android:label="Ovo je su sve slike u episodi"></activity>
-        <activity android:name=".SearchActivity"></activity>
+
+        <activity android:name=".ComicsEpisodesActivity" android:label="Ovo je su sve episode u stripu"></activity>
+        <activity android:name=".EpisodeImagesActivity" android:label="Ovo je su sve slike u episodi"></activity>
+        <activity android:name=".SearchActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+        </activity>
         <activity android:name=".LoginActivity"></activity>
     </application>
-
 </manifest>

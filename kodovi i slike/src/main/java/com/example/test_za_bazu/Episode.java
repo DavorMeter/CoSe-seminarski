@@ -10,15 +10,6 @@ public class Episode {
     private String image_path;
     private int image_count;
 
-    /*public Episode(int episode_comic_ID, int episode_ID, String episode_title, String episode_tmb, String episode_images_path)
-    {
-        this.episode_comic_ID = episode_comic_ID;
-        this.episode_images_path = episode_images_path;
-        this.episode_title = episode_title;
-        this.episode_tmb = episode_tmb;
-        this.episode_images_path = episode_images_path;
-    }*/
-
     public int getEpisode_comic_ID() {
         return episode_comic_ID;
     }

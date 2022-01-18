@@ -10,13 +10,14 @@ import android.widget.*;
 
 import com.koushikdutta.ion.Ion;
 
-public class ComicListViewAdapter extends BaseAdapter {
+public class ComicListViewAdapterLoggedIn extends BaseAdapter {
     Context myContext;
     LayoutInflater myLayoutInflater;
+    Users loggedInUser;
 
-    public ComicListViewAdapter(Context myContext) {
+    public ComicListViewAdapterLoggedIn(Context myContext, Users loggedInUser) {
         this.myContext = myContext;
-
+        this.loggedInUser = loggedInUser;
         this.myLayoutInflater = (LayoutInflater) myContext.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
     }
 
@@ -43,8 +44,28 @@ public class ComicListViewAdapter extends BaseAdapter {
         comicAuthorTextView.setText(author_name.getAuthor_name());
 
         ImageButton subscribeButtonComic = convertView.findViewById(R.id.buttonSubscribeCommic);
-        subscribeButtonComic.setVisibility(View.INVISIBLE);
+        subscribeButtonComic.setImageResource(R.drawable.check_box_off);
 
+        subscribeButtonComic.setOnClickListener(new View.OnClickListener() {
+
+            int a = 0;
+
+            @Override
+            public void onClick(View v) {
+                SubscribeDataSource subscribeDataSource = new SubscribeDataSource(myContext.getApplicationContext());
+                if(a == 0) {
+                    subscribeButtonComic.setImageResource(R.drawable.check_box_on);
+
+                    subscribeDataSource.addSubscribeToDb(Integer.valueOf(String.valueOf(loggedInUser.getUser_ID())+String.valueOf(currentComic.getComic_ID())),loggedInUser.getUser_ID(),currentComic.getComic_ID());
+                    a = 1;
+                }
+                else{
+                    subscribeButtonComic.setImageResource(R.drawable.check_box_off);
+                    subscribeDataSource.deleteSubscribeFromDb(currentComic.getComic_ID());
+                    a = 0;
+                }
+            }
+        });
         return convertView;
     }
 
