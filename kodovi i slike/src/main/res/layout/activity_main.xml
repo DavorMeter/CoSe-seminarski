@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity"
+        android:orientation="vertical">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:orientation="horizontal">
+
+        <TextView
+                android:id="@+id/appName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="CoSe"
+                android:textSize="60dp"
+                android:textColor="@color/black"
+                android:gravity="center"/>
+
+        <ImageButton
+                android:id="@+id/signInButton"
+                android:layout_width="75dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/user1"
+                tools:srcCompat="@drawable/user1"
+                android:background="@color/white"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:baselineAligned="false"
+            android:orientation="horizontal">
+
+        <Button
+                android:id="@+id/recentButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Recent" />
+
+        <Button
+                android:id="@+id/subscribeButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Subscribe" />
+
+
+        <Button
+                android:id="@+id/searchButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Search" />
+    </LinearLayout>
+
+    <ListView
+            android:id="@+id/comicList"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"></ListView>
+
+</LinearLayout>
